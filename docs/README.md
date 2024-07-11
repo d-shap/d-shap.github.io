@@ -1,1 +1,1 @@
-* [aMAZEng](aMAZEng/README.md)
+* [aMAZEng](./aMAZEng/README.md)
