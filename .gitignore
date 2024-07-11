@@ -1,11 +1,11 @@
-glob:*.class
-glob:*.iml
-glob:*~
+*.class
+*.iml
+*~
 
-glob:**/build/
-glob:**/bin/
-glob:**/gen/
-glob:**/target/
+**/build/
+**/bin/
+**/gen/
+**/target/
 
 .idea/artifacts/
 .idea/copyright/
