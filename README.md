@@ -1,2 +1,2 @@
-# ZZPolicies
-ZZPolicies contains different legal documents.
+# ZZPages
+ZZPages contains public documents.
