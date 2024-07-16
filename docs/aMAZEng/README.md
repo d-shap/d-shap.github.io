@@ -2,7 +2,8 @@
 
 ![](./images/Feature%20graphic.png)
 
-In this game you have to help boy scout to find a way out of a large number of mazes.
+In this game you are helping a boy scout to find a way out of a large number of mazes.
+There are different obstacles you should overcome, like closed doors etc.
 
 ## World 1
 ![](./images/screenshot-01-01.jpg)
