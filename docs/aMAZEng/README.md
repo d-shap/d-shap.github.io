@@ -24,7 +24,8 @@ Under development
 
 # Personal data
 
-This game does not collect any personal data, but uses personal data to authenticate user at Google Play Services.
+This game does not collect any personal data itself.
+But it uses Android APIs and authenticates user at Google Play Services.
 Google Play Services are used for achievements.
 
 ![](./images/screenshot-pd-01.jpg)
