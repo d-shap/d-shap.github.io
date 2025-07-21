@@ -19,6 +19,7 @@ Or is there some easier way?
 * No adds
 
 Find **aMAZEng** at
+* [YouTube](https://www.youtube.com/playlist?list=PLKUSt_OFstuyi2PSv1t3yXA586KpwRxTD)
 * [Google Play](https://play.google.com/store/apps/details?id=ru.d_shap.ap.amazeng)
 
 ### Screenshots
