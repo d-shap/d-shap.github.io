@@ -18,6 +18,9 @@ Or is there some easier way?
 * No internet connection required
 * No adds
 
+Find **aMAZEng** at
+* [Google Play](https://play.google.com/store/apps/details?id=ru.d_shap.ap.amazeng)
+
 ### Screenshots
 
 #### World 1
