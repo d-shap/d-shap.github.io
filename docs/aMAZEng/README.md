@@ -18,30 +18,32 @@ Or is there some easier way?
 * No internet connection required
 * No adds
 
-## World 1
+### Screenshots
+
+#### World 1
 ![](./images/screenshot-01-01.jpg)
 ![](./images/screenshot-01-02.jpg)
 ![](./images/screenshot-01-03.jpg)
 ![](./images/screenshot-01-04.jpg)
 
-## World 2
+#### World 2
 ![](./images/screenshot-02-01.jpg)
 ![](./images/screenshot-02-02.jpg)
 ![](./images/screenshot-02-03.jpg)
 ![](./images/screenshot-02-04.jpg)
 ![](./images/screenshot-02-05.jpg)
 
-## World 3
+#### World 3
 ![](./images/screenshot-03-01.jpg)
 ![](./images/screenshot-03-02.jpg)
 ![](./images/screenshot-03-03.jpg)
 ![](./images/screenshot-03-04.jpg)
 ![](./images/screenshot-03-05.jpg)
 
-## World 4
+#### World 4
 Under development
 
-## World 5
+#### World 5
 Under development
 
 # Personal data
