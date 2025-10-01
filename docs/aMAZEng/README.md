@@ -57,7 +57,7 @@ This game does not collect any personal data itself.
 But it uses Android APIs and authenticates user at Google Play Services.
 Google Play Services are used for achievements.
 
-<img src="images/screenshot-pd-01.jpg" alt="screenshot-pd-01" />
-<img src="images/screenshot-pd-02.jpg" alt="screenshot-pd-02" />
+![](./images/screenshot-pd-01.jpg)
+![](./images/screenshot-pd-02.jpg)
 
 [Privacy Policy](./PrivacyPolicy.md)
