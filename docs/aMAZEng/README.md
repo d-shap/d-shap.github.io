@@ -13,7 +13,7 @@ Or is it better to use some rules to pass a maze, for example a right-hand rule 
 Or you can try to create a maze's plan so you will see a bigger picture of a maze.\
 Or is there some easier way?
 
-* 80 mazes available
+* 85 mazes available
 * Lots of obstacles - closed doors, traps and portals
 * No internet connection required
 * No adds
@@ -29,6 +29,7 @@ Or is there some easier way?
 ![](./images/screenshot-01-02.jpg)
 ![](./images/screenshot-01-03.jpg)
 ![](./images/screenshot-01-04.jpg)
+![](./images/screenshot-01-05.jpg)
 
 #### World 2
 ![](./images/screenshot-02-01.jpg)
