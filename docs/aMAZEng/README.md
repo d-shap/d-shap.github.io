@@ -25,11 +25,11 @@ Or is there some easier way?
 ### Screenshots
 
 #### World 1
-![](./images/screenshot-01-01.jpg)
-![](./images/screenshot-01-02.jpg)
-![](./images/screenshot-01-03.jpg)
-![](./images/screenshot-01-04.jpg)
-![](./images/screenshot-01-05.jpg)
+<img src="images/screenshot-01-01.jpg" alt="screenshot-01-01" width="130" />
+<img src="images/screenshot-01-02.jpg" alt="screenshot-01-02" width="130" />
+<img src="images/screenshot-01-03.jpg" alt="screenshot-01-03" width="130" />
+<img src="images/screenshot-01-04.jpg" alt="screenshot-01-04" width="130" />
+<img src="images/screenshot-01-05.jpg" alt="screenshot-01-05" width="130" />
 
 #### World 2
 ![](./images/screenshot-02-01.jpg)
