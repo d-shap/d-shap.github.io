@@ -26,6 +26,7 @@
     </inspection_tool>
     <inspection_tool class="CatchMayIgnoreException" enabled="true" level="ERROR" enabled_by_default="true" />
     <inspection_tool class="CaughtExceptionImmediatelyRethrown" enabled="true" level="ERROR" enabled_by_default="true" />
+    <inspection_tool class="CheckImageSize" enabled="false" level="WARNING" enabled_by_default="false" />
     <inspection_tool class="ClassInitializer" enabled="true" level="ERROR" enabled_by_default="true" />
     <inspection_tool class="ClassInitializerMayBeStatic" enabled="true" level="ERROR" enabled_by_default="true" />
     <inspection_tool class="ClassNameDiffersFromFileName" enabled="true" level="ERROR" enabled_by_default="true" />
