@@ -1,6 +1,6 @@
 # An aMAZEng homepage
 
-![](./images/Feature%20graphic.png)
+![](./images/feature-graphic.png)
 
 Lost in a sprawling maze, a young scout needs your help to find the way out.
 
