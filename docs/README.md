@@ -2,7 +2,35 @@
 
 <img src="images/avatar.jpg" alt="avatar" width="130" style="border-radius: 50%; float: left;" />
 
-Some text on this page
+### Senior Java Developer
+I am a Senior Java Developer with over 15 years of experience building and modernising enterprise-scale systems in finance, retail, and telecommunications.
+I specialise in backend development, distributed systems, and API-driven architectures, with a strong focus on reliability, performance, and clean design.
+I also have a strong background in quality assurance, which allows me to design systems with testability and robustness in mind.
+
+Currently, I work as a Senior Java Developer at Weigandt Consulting, where I contribute to Tesco’s Customer Engagement Centre (OneCEC) - a large-scale internal platform used by thousands of colleagues to handle customer requests efficiently.
+My responsibilities include designing and developing backend services, integrating with multiple internal APIs, and supporting high-throughput, business-critical workflows using modern Java and reactive technologies.
+
+Previously, I worked as a Senior Software Engineer at Sberbank, one of Europe’s largest financial institutions, where I helped migrate legacy payment flows to a modern microservices architecture in Sberbank Online.
+I played a key role in implementing core autopayment functionality and REST services within an agile, cross-platform team.
+
+Earlier in my career, I led and architected enterprise content management solutions for major organisations such as Vimpelcom, Rostelecom, and other large enterprises.
+In these roles I was delivering workflow automation, document management systems, and business-critical integrations.
+
+### Core Expertise
+* Java 21, Java EE, Spring Framework, Spring WebFlux
+* Microservices and reactive architectures
+* RESTful APIs and system integration
+* MongoDB, Couchbase, Oracle Database, MySQL
+* Enterprise platforms and legacy system modernisation
+* Documentum and Alfresco
+* Android development
+* Python, Django
+* Docker
+
+### Certifications & Background
+I hold multiple Java certifications, as well as advanced ISTQB testing certifications.
+A full list of my certificates can be found [here](./certificates/README.md).
+I earned my degree from Ural State Technical University and have worked across a wide range of industries, consistently delivering scalable, maintainable, and business-focused solutions.
 
 ### Find me at
 * [LinkedIn](https://www.linkedin.com/in/dmitry-shapovalov)
