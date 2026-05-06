@@ -8,9 +8,32 @@
     <img src="images/CX-310-055.jpg" alt="CX-310-055" width="424" />
 </a>
 
+<a href="images/1Z0-808.jpg">
+    <img src="images/1Z0-808.jpg" alt="1Z0-808" width="424" />
+</a>
+<a href="images/1Z0-809.jpg">
+    <img src="images/1Z0-809.jpg" alt="1Z0-809" width="424" />
+</a>
+<a href="images/1Z0-819.jpg">
+    <img src="images/1Z0-819.jpg" alt="1Z0-819" width="424" />
+</a>
+
 ### Java Enterprise
 <a href="images/CX-310-081.jpg">
     <img src="images/CX-310-081.jpg" alt="CX-310-081" width="424" />
+</a>
+
+<a href="images/1Z0-895.jpg">
+    <img src="images/1Z0-895.jpg" alt="1Z0-895" width="424" />
+</a>
+<a href="images/1Z0-897.jpg">
+    <img src="images/1Z0-897.jpg" alt="1Z0-897" width="424" />
+</a>
+<a href="images/1Z0-898.jpg">
+    <img src="images/1Z0-898.jpg" alt="1Z0-898" width="424" />
+</a>
+<a href="images/1Z0-899.jpg">
+    <img src="images/1Z0-899.jpg" alt="1Z0-899" width="424" />
 </a>
 
 ### Python
