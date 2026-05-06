@@ -1,8 +1,17 @@
 # Hall of Fame
 
 ### Java
+<a href="images/CX-310-035.jpg">
+    <img src="images/CX-310-035.jpg" alt="CX-310-035" width="424" />
+</a>
+<a href="images/CX-310-055.jpg">
+    <img src="images/CX-310-055.jpg" alt="CX-310-055" width="424" />
+</a>
 
 ### Java Enterprise
+<a href="images/CX-310-081.jpg">
+    <img src="images/CX-310-081.jpg" alt="CX-310-081" width="424" />
+</a>
 
 ### Python
 <a href="images/PCAP-31-02.jpg">
