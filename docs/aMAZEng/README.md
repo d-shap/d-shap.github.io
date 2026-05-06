@@ -52,7 +52,10 @@ Download aMAZEng and discover if you’ve got what it takes to escape!
 <img src="images/screenshot-03-05.jpg" alt="screenshot-03-05" width="130" />
 
 #### World 4
-Under development
+<img src="images/screenshot-03-01.jpg" alt="screenshot-04-01" width="130" />
+<img src="images/screenshot-03-02.jpg" alt="screenshot-04-02" width="130" />
+<img src="images/screenshot-03-03.jpg" alt="screenshot-04-03" width="130" />
+<img src="images/screenshot-03-04.jpg" alt="screenshot-04-04" width="130" />
 
 #### World 5
 Under development
