@@ -15,11 +15,6 @@ Welcome to aMAZEng, where every maze is a fresh challenge packed with surprises:
 Will you rely on luck, darting blindly through the corridors?
 Or will you craft a strategy - maybe stick to the right-hand rule, or sketch a mental map to unveil the maze’s secrets?
 
-Here’s what awaits you:
-* 100 unique mazes - from deceptively simple to mind‑bendingly complex;
-* No internet needed - play anytime, anywhere;
-* Zero ads - just pure, uninterrupted puzzle‑solving fun.
-
 Dare to get lost?
 Download aMAZEng and discover if you’ve got what it takes to escape!
 
