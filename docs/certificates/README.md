@@ -36,3 +36,6 @@
 ### Enterprise Content Management
 
 ### Other
+<a href="images/IBM-000-142.jpg">
+    <img src="images/IBM-000-142.jpg" alt="IBM-000-142" width="424" />
+</a>
