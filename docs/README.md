@@ -17,19 +17,20 @@ Earlier in my career, I led and architected enterprise content management soluti
 In these roles I was delivering workflow automation, document management systems, and business-critical integrations.
 
 ### Core Expertise
-* Java 21, Java EE, Spring Framework, Spring WebFlux
+* Java, Java EE, Spring Framework, Spring WebFlux
 * Microservices and reactive architectures
 * RESTful APIs and system integration
+* Quality Assurance
 * MongoDB, Couchbase, Oracle Database, MySQL
 * Enterprise platforms and legacy system modernisation
-* Documentum and Alfresco
-* Android development
+* Documentum and Alfresco ECMs
+* Android development, Game development
 * Python, Django
-* Docker
+* Docker containerization
 
 ### Certifications & Background
 I hold multiple Java certifications, as well as advanced ISTQB testing certifications.
-A full list of my certificates can be found [here](./certificates/README.md).
+A full list of my certificates can be found [HERE](./certificates/README.md).
 I earned my degree from Ural State Technical University and have worked across a wide range of industries, consistently delivering scalable, maintainable, and business-focused solutions.
 
 ### Find me at
