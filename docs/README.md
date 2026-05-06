@@ -30,7 +30,7 @@ In these roles I was delivering workflow automation, document management systems
 
 ### Certifications & Background
 I hold multiple Java certifications, as well as advanced ISTQB testing certifications.
-A full list of my certificates can be found [HERE](./certificates/README.md).
+A full list of my certificates can be found in my [Hall of Fame](./certificates/README.md).
 I earned my degree from Ural State Technical University and have worked across a wide range of industries, consistently delivering scalable, maintainable, and business-focused solutions.
 
 ### Find me at
