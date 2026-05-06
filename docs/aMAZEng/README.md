@@ -2,24 +2,30 @@
 
 ![](./images/Feature%20graphic.png)
 
-A boy scout is lost in a maze.
-Help him to find a way out.
+Lost in a sprawling maze, a young scout needs your help to find the way out.
 
-Mazes are large and confusing, with lots of obstacles such as closed doors, traps and portals.
-You will have to work hard to overcome these obstacles and find a way out.
+Imagine being trapped in a vast, twisting labyrinth - walls closing in, every turn a mystery, every step a gamble.
+That’s exactly where a young scout finds himself.
 
-Is it possible to find an exit by randomly choosing passages?\
-Or is it better to use some rules to pass a maze, for example a right-hand rule - move through a maze so that your right hand always touches a wall.\
-Or you can try to create a maze's plan so you will see a bigger picture of a maze.\
-Or is there some easier way?
+Welcome to aMAZEng, where every maze is a fresh challenge packed with surprises:
+* Sneaky traps that test your vigilance;
+* Mysterious portals warping you to unknown corners;
+* Locked doors begging for clever solutions.
 
-* 85 mazes available
-* Lots of obstacles - closed doors, traps and portals
-* No internet connection required
-* No adds
+Will you rely on luck, darting blindly through the corridors?
+Or will you craft a strategy - maybe stick to the right-hand rule, or sketch a mental map to unveil the maze’s secrets?
+
+Here’s what awaits you:
+* 100 unique mazes - from deceptively simple to mind‑bendingly complex;
+* No internet needed - play anytime, anywhere;
+* Zero ads - just pure, uninterrupted puzzle‑solving fun.
+
+Dare to get lost?
+Download aMAZEng and discover if you’ve got what it takes to escape!
 
 ### Find aMAZEng at
-* [YouTube](https://www.youtube.com/playlist?list=PLKUSt_OFstuyi2PSv1t3yXA586KpwRxTD)
+* [YouTube Promo Videos](https://www.youtube.com/playlist?list=PLKUSt_OFstuyi2PSv1t3yXA586KpwRxTD)
+* [YouTube Music](https://www.youtube.com/playlist?list=PLKUSt_OFstuxojpi9MoRBqhPYh5bueH1s)
 * [Google Play](https://play.google.com/store/apps/details?id=ru.d_shap.ap.amazeng)
 
 ### Screenshots
