@@ -19,8 +19,9 @@ Dare to get lost?
 Download aMAZEng and discover if you’ve got what it takes to escape!
 
 ### Find aMAZEng at
-* [YouTube Promo Videos](https://www.youtube.com/playlist?list=PLKUSt_OFstuyi2PSv1t3yXA586KpwRxTD)
-* [YouTube Music](https://www.youtube.com/playlist?list=PLKUSt_OFstuxojpi9MoRBqhPYh5bueH1s)
+* [YouTube Promos](https://www.youtube.com/playlist?list=PLKUSt_OFstuyi2PSv1t3yXA586KpwRxTD)
+* [YouTube Musics](https://www.youtube.com/playlist?list=PLKUSt_OFstuxojpi9MoRBqhPYh5bueH1s)
+* [YouTube Walkthroughs](https://www.youtube.com/playlist?list=PLKUSt_OFstuyDX8MSOhz7WdzcADmjI5ED)
 * [Google Play](https://play.google.com/store/apps/details?id=ru.d_shap.ap.amazeng)
 
 ### Screenshots
