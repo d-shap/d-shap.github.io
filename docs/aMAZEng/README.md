@@ -1,4 +1,4 @@
-# An aMAZEng homepage
+# aMAZEng: Amazing Mazes
 
 ![](./images/feature-graphic.png)
 
@@ -8,9 +8,9 @@ Imagine being trapped in a vast, twisting labyrinth - walls closing in, every tu
 That’s exactly where a young scout finds himself.
 
 Welcome to aMAZEng, where every maze is a fresh challenge packed with surprises:
+* Locked doors begging for clever solutions;
 * Sneaky traps that test your vigilance;
-* Mysterious portals warping you to unknown corners;
-* Locked doors begging for clever solutions.
+* Mysterious portals warping you to unknown corners.
 
 Will you rely on luck, darting blindly through the corridors?
 Or will you craft a strategy - maybe stick to the right-hand rule, or sketch a mental map to unveil the maze’s secrets?
