@@ -41,4 +41,4 @@ I earned my degree from Ural State Technical University and have worked across a
 * [YouTube](https://www.youtube.com/@TheShenf)
 
 ### My projects
-* [aMAZEng](./aMAZEng/README.md)
+* [aMAZEng: Amazing Mazes](./aMAZEng/README.md)
