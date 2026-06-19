@@ -35,7 +35,7 @@ I earned my degree from Ural State Technical University and have worked across a
 
 ### Find me at
 * [LinkedIn](https://www.linkedin.com/in/dmitry-shapovalov)
-* [HH](https://hh.ru/resume/d0754f45ff07a1eb100039ed1f665332464769?print=true)
+* [HeadHunter](https://hh.ru/resume/d0754f45ff07a1eb100039ed1f665332464769?print=true)
 * [GitHub](https://github.com/d-shap)
 * [Docker Hub](https://hub.docker.com/u/dshap)
 * [Google Play](https://play.google.com/store/apps/developer?id=Dmitry+Shapovalov)
