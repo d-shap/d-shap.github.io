@@ -24,7 +24,7 @@ In these roles I was delivering workflow automation, document management systems
 * MongoDB, Couchbase, Oracle Database, MySQL
 * Enterprise platforms and legacy system modernisation
 * Documentum and Alfresco ECMs
-* Android development, Game development
+* Android development, Game development, OpenGL
 * Python, Django
 * Docker containerization
 
