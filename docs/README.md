@@ -1,6 +1,6 @@
 # My personal homepage
 
-<img src="images/avatar.jpg" alt="avatar" width="130" style="border-radius: 50%; float: left;" />
+<img src="images/avatar1.jpg" alt="avatar" width="130" style="border-radius: 50%; float: left;" />
 
 ### Senior Java Developer
 I am a Senior Java Developer with over 15 years of experience building and modernising enterprise-scale systems in finance, retail, and telecommunications.
