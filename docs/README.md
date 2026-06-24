@@ -34,13 +34,13 @@ A full list of my certificates can be found in my [Hall of Fame](./certificates/
 I earned my degree from Ural State Technical University and have worked across a wide range of industries, consistently delivering scalable, maintainable, and business-focused solutions.
 
 ### Find me at
-* [LinkedIn](https://www.linkedin.com/in/dmitry-shapovalov)
-* [HeadHunter](https://hh.ru/resume/d0754f45ff07a1eb100039ed1f665332464769?print=true)
-* [SuperJob](https://www.superjob.ru/resume/veduschij-razrabotchik-56580905.html)
-* [GitHub](https://github.com/d-shap)
-* [Docker Hub](https://hub.docker.com/u/dshap)
-* [Google Play](https://play.google.com/store/apps/developer?id=Dmitry+Shapovalov)
-* [YouTube](https://www.youtube.com/@TheShenf)
+* [<img src="images/LinkedIn.ico" alt="favicon" width="16" height="16" /> LinkedIn](https://www.linkedin.com/in/dmitry-shapovalov)
+* [<img src="images/HeadHunter.ico" alt="favicon" width="16" height="16" /> HeadHunter](https://hh.ru/resume/d0754f45ff07a1eb100039ed1f665332464769?print=true)
+* [<img src="images/SuperJob.ico" alt="favicon" width="16" height="16" /> SuperJob](https://www.superjob.ru/resume/veduschij-razrabotchik-56580905.html)
+* [<img src="images/GitHub.ico" alt="favicon" width="16" height="16" /> GitHub](https://github.com/d-shap)
+* [<img src="images/DockerHub.ico" alt="favicon" width="16" height="16" /> Docker Hub](https://hub.docker.com/u/dshap)
+* [<img src="images/GooglePlay.ico" alt="favicon" width="16" height="16" /> Google Play](https://play.google.com/store/apps/developer?id=Dmitry+Shapovalov)
+* [<img src="images/YouTube.ico" alt="favicon" width="16" height="16" /> YouTube](https://www.youtube.com/@TheShenf)
 
 ### My projects
 * [aMAZEng: Amazing Mazes](./aMAZEng/README.md)
