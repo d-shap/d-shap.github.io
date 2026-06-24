@@ -21,12 +21,12 @@ Download aMAZEng and discover if you’ve got what it takes to escape!
 ### Find aMAZEng at
 
 ##### YouTube
-* [YouTube Promos](https://www.youtube.com/playlist?list=PLKUSt_OFstuyi2PSv1t3yXA586KpwRxTD)
-* [YouTube Walkthroughs](https://www.youtube.com/playlist?list=PLKUSt_OFstuyDX8MSOhz7WdzcADmjI5ED)
-* [YouTube Musics](https://www.youtube.com/playlist?list=PLKUSt_OFstuxojpi9MoRBqhPYh5bueH1s)
+* [<img src="../images/YouTube.ico" alt="favicon" width="16" height="16" /> YouTube Promos](https://www.youtube.com/playlist?list=PLKUSt_OFstuyi2PSv1t3yXA586KpwRxTD)
+* [<img src="../images/YouTube.ico" alt="favicon" width="16" height="16" /> YouTube Walkthroughs](https://www.youtube.com/playlist?list=PLKUSt_OFstuyDX8MSOhz7WdzcADmjI5ED)
+* [<img src="../images/YouTube.ico" alt="favicon" width="16" height="16" /> YouTube Musics](https://www.youtube.com/playlist?list=PLKUSt_OFstuxojpi9MoRBqhPYh5bueH1s)
 
 ##### App Stores
-* [Google Play](https://play.google.com/store/apps/details?id=ru.d_shap.ap.amazeng)
+* [<img src="../images/GooglePlay.ico" alt="favicon" width="16" height="16" /> Google Play](https://play.google.com/store/apps/details?id=ru.d_shap.ap.amazeng)
 
 ### Screenshots
 
