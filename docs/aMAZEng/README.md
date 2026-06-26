@@ -48,11 +48,21 @@ Download aMAZEng and discover if you’ve got what it takes to escape!
 </a>
 
 #### World 2
-<img src="images/screenshot-02-01.jpg" alt="screenshot-02-01" width="130" />
-<img src="images/screenshot-02-02.jpg" alt="screenshot-02-02" width="130" />
-<img src="images/screenshot-02-03.jpg" alt="screenshot-02-03" width="130" />
-<img src="images/screenshot-02-04.jpg" alt="screenshot-02-04" width="130" />
-<img src="images/screenshot-02-05.jpg" alt="screenshot-02-05" width="130" />
+<a href="images/screenshot-02-01.jpg">
+    <img src="images/screenshot-02-01.jpg" alt="screenshot-02-01" width="130" />
+</a>
+<a href="images/screenshot-02-02.jpg">
+    <img src="images/screenshot-02-02.jpg" alt="screenshot-02-02" width="130" />
+</a>
+<a href="images/screenshot-02-03.jpg">
+    <img src="images/screenshot-02-03.jpg" alt="screenshot-02-03" width="130" />
+</a>
+<a href="images/screenshot-02-04.jpg">
+    <img src="images/screenshot-02-04.jpg" alt="screenshot-02-04" width="130" />
+</a>
+<a href="images/screenshot-02-05.jpg">
+    <img src="images/screenshot-02-05.jpg" alt="screenshot-02-05" width="130" />
+</a>
 
 #### World 3
 <img src="images/screenshot-03-01.jpg" alt="screenshot-03-01" width="130" />
