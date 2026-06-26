@@ -82,10 +82,18 @@ Download aMAZEng and discover if you’ve got what it takes to escape!
 </a>
 
 #### World 4
-<img src="images/screenshot-04-01.jpg" alt="screenshot-04-01" width="130" />
-<img src="images/screenshot-04-02.jpg" alt="screenshot-04-02" width="130" />
-<img src="images/screenshot-04-03.jpg" alt="screenshot-04-03" width="130" />
-<img src="images/screenshot-04-04.jpg" alt="screenshot-04-04" width="130" />
+<a href="images/screenshot-04-01.jpg">
+    <img src="images/screenshot-04-01.jpg" alt="screenshot-04-01" width="130" />
+</a>
+<a href="images/screenshot-04-02.jpg">
+    <img src="images/screenshot-04-02.jpg" alt="screenshot-04-02" width="130" />
+</a>
+<a href="images/screenshot-04-03.jpg">
+    <img src="images/screenshot-04-03.jpg" alt="screenshot-04-03" width="130" />
+</a>
+<a href="images/screenshot-04-04.jpg">
+    <img src="images/screenshot-04-04.jpg" alt="screenshot-04-04" width="130" />
+</a>
 
 #### World 5
 Under development
