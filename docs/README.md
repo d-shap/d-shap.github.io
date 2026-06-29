@@ -42,5 +42,5 @@ I earned my degree from Ural State Technical University and have worked across a
 * [<img src="images/GooglePlay.ico" alt="favicon" width="16" height="16" /> Google Play](https://play.google.com/store/apps/developer?id=Dmitry+Shapovalov)
 * [<img src="images/YouTube.ico" alt="favicon" width="16" height="16" /> YouTube](https://www.youtube.com/@TheShenf)
 
-### My projects
+### My pet projects
 * [aMAZEng: Amazing Mazes](./aMAZEng/README.md)
